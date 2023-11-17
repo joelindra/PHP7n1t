@@ -9,4 +9,4 @@ The script takes a file containing a list of domains and the number of threads t
 ### Usage
 
 ```bash
-python scanner.py <file_with_domains> <num_threads>
+python phpunit.py <file_with_domains> <num_threads>
